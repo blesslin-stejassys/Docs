@@ -154,9 +154,8 @@ This ensures unified access between Directus CMS and Supabase-managed backend.
 
 ## 7. Deploying Directus with GCP or Vercel
 
-- **Frontend (Next.js):** Deploy on [Vercel](https://vercel.com/).
-- **Backend (Directus):** Deploy via Docker container on a **GCP VM** or **Cloud Run** instance.
-- Store environment variables in **GCP Secret Manager** or **Vercel Environment Variables**.
+- **Frontend (Next.js):** Deploy on GCP.
+- **Backend (Directus):** Deploy via Docker container on a **GCP VM** instance.
 
 Once deployed, update your environment file in Next.js:
 
