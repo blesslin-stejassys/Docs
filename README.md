@@ -59,7 +59,7 @@ Copy code
 
 ## 🔐 Access and Permissions
 
-- Access to GCP, Supabase, and Sentry credentials is managed by **Varun**.
+- Access to GCP, Supabase, and Sentry credentials.
 - All environment variables (`.env`, `.env.local`) are stored securely using **GCP Secret Manager**.
 - Docker images and deployments are version-controlled through **GCP Artifact Registry**.
 
