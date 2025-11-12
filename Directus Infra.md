@@ -152,7 +152,7 @@ This ensures unified access between Directus CMS and Supabase-managed backend.
 
 ---
 
-## 7. Deploying Directus with GCP or Vercel
+## 7. Deploying Directus with GCP
 
 - **Frontend (Next.js):** Deploy on GCP.
 - **Backend (Directus):** Deploy via Docker container on a **GCP VM** instance.
